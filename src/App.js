@@ -26,11 +26,11 @@ class App extends Component {
     }
 }
 
-
+/*
 componentDidMount(){
   this.getRecipes();
 }
-
+*/
 dispalyPage = (index) => {
   switch(index){
     default:
