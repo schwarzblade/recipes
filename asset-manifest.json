@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/schwarzblade/recipes/static/css/main.3285b26d.chunk.css",
-    "main.js": "/schwarzblade/recipes/static/js/main.8c811a78.chunk.js",
-    "main.js.map": "/schwarzblade/recipes/static/js/main.8c811a78.chunk.js.map",
-    "runtime-main.js": "/schwarzblade/recipes/static/js/runtime-main.4609d178.js",
-    "runtime-main.js.map": "/schwarzblade/recipes/static/js/runtime-main.4609d178.js.map",
-    "static/js/2.71a8bca9.chunk.js": "/schwarzblade/recipes/static/js/2.71a8bca9.chunk.js",
-    "static/js/2.71a8bca9.chunk.js.map": "/schwarzblade/recipes/static/js/2.71a8bca9.chunk.js.map",
-    "index.html": "/schwarzblade/recipes/index.html",
-    "precache-manifest.935e9ffc07553e4e7fe8ee349305974b.js": "/schwarzblade/recipes/precache-manifest.935e9ffc07553e4e7fe8ee349305974b.js",
-    "service-worker.js": "/schwarzblade/recipes/service-worker.js",
-    "static/css/main.3285b26d.chunk.css.map": "/schwarzblade/recipes/static/css/main.3285b26d.chunk.css.map"
+    "main.css": "/recipes/static/css/main.3285b26d.chunk.css",
+    "main.js": "/recipes/static/js/main.7d70b107.chunk.js",
+    "main.js.map": "/recipes/static/js/main.7d70b107.chunk.js.map",
+    "runtime-main.js": "/recipes/static/js/runtime-main.a9e7126c.js",
+    "runtime-main.js.map": "/recipes/static/js/runtime-main.a9e7126c.js.map",
+    "static/js/2.71a8bca9.chunk.js": "/recipes/static/js/2.71a8bca9.chunk.js",
+    "static/js/2.71a8bca9.chunk.js.map": "/recipes/static/js/2.71a8bca9.chunk.js.map",
+    "index.html": "/recipes/index.html",
+    "precache-manifest.8158da4f7842a6336c452b828f1592ba.js": "/recipes/precache-manifest.8158da4f7842a6336c452b828f1592ba.js",
+    "service-worker.js": "/recipes/service-worker.js",
+    "static/css/main.3285b26d.chunk.css.map": "/recipes/static/css/main.3285b26d.chunk.css.map"
   }
 }
